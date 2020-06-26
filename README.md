@@ -5,7 +5,7 @@ This is a pharmacy UI for FiveM, that you can add more products.
 
 Isso é uma interfáce de farmácia para o FiveM, que você pode adicionar mais produtos.
 
-Vídeo de demonstração/ Demonstration video: https://streamable.com/73ibjl (It's in portuguese.)
+Vídeo de demonstração/ Demonstration video: https://streamable.com/73ibjl
 
 # How to use / Como usar
 1. Download the zip file.
