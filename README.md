@@ -11,6 +11,8 @@ Isso é uma interfáce de farmácia para o FiveM, que você pode adicionar mais 
 3. Add the start on your server.cfg --> start js_pharmacy
 4. If you need more help, join on my discord: https://discord.gg/J8QwGVq
 
+# Português
+
 1. Baixe o arquivo ZIP.
 2. Arraste o arquivo `js_pharmacy` para a pasta resources.
 3. Adicione o start no seu arquivo server.cfg --> start js_pharmacy
@@ -18,6 +20,8 @@ Isso é uma interfáce de farmácia para o FiveM, que você pode adicionar mais 
 
 # Notes / Notas
 Will have blips on the map, where you can acess the menu. You can change, remove or add blips. You also can add more products on the store.
+
+# Português
 
 Irá haver blips no mapa, onde você irá acessar o menu. Você pode trocar, remover ou adicionar blips. Você também pode adicionar novos produtos.
 
@@ -33,6 +37,8 @@ product.createBox();
 5. The third is the image name, you dont need to put `.png` in the end.
 6. Important thing: you need to add the image in `ui/imgs` and in the `__resource.lua`, like this:
 ![img](https://i.imgur.com/kKifoim.png)
+
+# Português
 
 1. Vá para `js_pharmacy` --> `ui` --> `main.js`.
 2. Para criar um novo produto você precisa apenas fazer isso: 
