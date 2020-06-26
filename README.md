@@ -21,8 +21,6 @@ Isso é uma interfáce de farmácia para o FiveM, que você pode adicionar mais 
 # Notes / Notas
 Will have blips on the map, where you can acess the menu. You can change, remove or add blips. You also can add more products on the store.
 
-# Português
-
 Irá haver blips no mapa, onde você irá acessar o menu. Você pode trocar, remover ou adicionar blips. Você também pode adicionar novos produtos.
 
 # How to add products / Como adicionar produtos
